@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshatgg
-- 👀 I’m interested in C++ and html
-- 🌱 I’m currently learning both
+- 👀 I’m interested in to solve questions by the C++ or JAVA
+- 🌱 I’m currently learning JAVA and C++ and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me to message me lnd
 
