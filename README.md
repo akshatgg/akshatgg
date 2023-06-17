@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structure by java**
 
-- 💬 Ask me about **Computer Programmer and Data Structure**
+- 💬 Ask me about **Computer Programming and Data Structure**
 
 - 📫 How to reach me **akshatg9636@gmail.com**
 
