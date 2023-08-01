@@ -22,16 +22,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irohanrajput&show_icons=true&locale=en&layout=compact" alt="irohanrajput" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatgg&show_icons=true&locale=en&layout=compact" alt="akshatgg" />
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irohanrajput&show_icons=true&locale=en" alt="irohanrajput"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatgg&show_icons=true&locale=en" alt="akshatgg"/>
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohanrajput&" alt="irohanrajput" />alt="akshatgg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatgg&show_icons=true&locale=en" alt="akshatgg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatgg&" alt="akshatgg" /></p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatgg&" alt="akshatgg" />alt="akshatgg" /></p>
