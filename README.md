@@ -9,7 +9,7 @@
 - <p>💬 Ask me about **Computer Programming and Data Structure and also WEB Development**</p>
 - <p>📫 How to reach me **akshatg9636@gmail.com**</p>
 - 
-<p>⚡ Fun fact **I am funny**</p>
+<p>⚡ Fun fact **I am funny and also i am very interesting </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="right">
