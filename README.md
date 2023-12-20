@@ -6,7 +6,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatgg&label=Profile%20views&color=0e75b6&style=flat" alt="akshatgg" /> </p>
 - <p>🌱 I’m currently learning **Data Structure by java and also give effort on Full Stack Development**</p>
-- <p>💬 Ask me about **Computer Programming and Data Structure and also WEB Development**</p>
+- <p>💬 Ask me about **Computer Programming and Data Structure and also Frontend**</p>
 - <p>📫 How to reach me **akshatg9636@gmail.com**</p>
 - 
 <p>⚡ Fun fact **I am funny and also i am very interesting </p>
