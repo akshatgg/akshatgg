@@ -27,7 +27,7 @@
 * I'm currently working on 🔭 building **Web Applications** and working up on polishing my skills 🌱 in **DSA**.
 
 ## Other Stuff
-- :octocat: [My Resume](https://drive.google.com/file/d/13Ku5z77m8HIxxVsIhyJVhEDQnqSGBoja/view?usp=sharing)
+- :octocat: [My Resume](https://drive.google.com/file/d/1BNLmzSl9EBPWEf-LIrhLYw97RVSNLn6k/view?usp=sharing)
 
 
 Here is a bit more detailed graph showing my open source contributions in the past year:
