@@ -7,6 +7,7 @@
   <a href="mailto:akshatg9636@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Creative+Coder;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
