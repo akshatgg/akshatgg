@@ -113,26 +113,19 @@ Node.js · Express · PostgreSQL · MongoDB · Prisma · Firebase · FastAPI
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
+
+
+
+<br/>
+
+
+
+<br/>
 
 <div align="center">
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=akshatgg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatgg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-</div>
-
-<div align="center">
+  <!-- Contribution Graph -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=akshatgg&theme=radical&hide_border=true&background=0D1117" />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akshatgg&theme=radical&bg_color=0D1117&hide_border=true" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshatgg&color=blueviolet&style=flat-square" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
