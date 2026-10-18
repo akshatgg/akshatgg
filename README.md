@@ -38,11 +38,11 @@ I'm deep into **observability, distributed systems, and platform engineering** �
 
 Free and open source — anyone can use them.
 
-| Project | What it is | Try it |
-|---|---|---|
-| 🔍 **Loupe** | Screen recorder & video editor for macOS and Windows — zoom up to 4× while recording, on-device captions, MP4/WebM/GIF export. No account, no upload. | [loupe.akshatgg.in](https://loupe.akshatgg.in/) |
-| 🤝 **Buddy** | | [buddy.akshatgg.in](https://buddy.akshatgg.in/) |
-| 🪐 **Orbit** | | [orbit.akshatgg.in](https://orbit.akshatgg.in/) |
+| Project | What it is | Try it | Code |
+|---|---|---|---|
+| 🔍 **Loupe** | Screen recorder & video editor for macOS and Windows — zoom up to 4× while recording, on-device captions, MP4/WebM/GIF export. No account, no upload. | [loupe.akshatgg.in](https://loupe.akshatgg.in/) | [GitHub](https://github.com/akshatgg/loupe) |
+| 🤝 **Buddy** | A small 3D buddy that floats over every app and helps you write — drafts emails and messages, fixes your English, and pastes the answer back into Gmail, WhatsApp or wherever you were typing. Talk to it in English, Hindi or Hinglish. On Mac, Windows, Android and iPhone. | [buddy.akshatgg.in](https://buddy.akshatgg.in/) | [GitHub](https://github.com/akshatgg/Buddy) |
+| 🪐 **Orbit** | Career events, networking, socials and society nights in one feed, ranked for you — with tickets, QR check-in, an organiser studio and an admin dashboard. Installable on iPhone & Android, no app store needed. | [orbit.akshatgg.in](https://orbit.akshatgg.in/) | [GitHub](https://github.com/akshatgg/Orbit) |
 
 ---
 
