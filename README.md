@@ -34,6 +34,18 @@ I'm deep into **observability, distributed systems, and platform engineering** �
 
 ---
 
+## 🌐 Open Source Projects
+
+Free and open source — anyone can use them.
+
+| Project | What it is | Try it |
+|---|---|---|
+| 🔍 **Loupe** | Screen recorder & video editor for macOS and Windows — zoom up to 4× while recording, on-device captions, MP4/WebM/GIF export. No account, no upload. | [loupe.akshatgg.in](https://loupe.akshatgg.in/) |
+| 🤝 **Buddy** | | [buddy.akshatgg.in](https://buddy.akshatgg.in/) |
+| 🪐 **Orbit** | | [orbit.akshatgg.in](https://orbit.akshatgg.in/) |
+
+---
+
 ## 💻 Tech Stack
 
 ### 🧠 Languages
