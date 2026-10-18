@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hey, I'm Akshat Gupta
 
 <p align="center">
-  <a href="https://akshatgg.vercel.app/">
+  <a href="https://akshatgg.in/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/akshatgg">
