@@ -21,15 +21,16 @@
 
 > *"There are 10 types of people in the world: those who understand binary, and those who don't."*
 
-I'm a **final-year B.Tech CSE (AI) student** at KIET, working across the stack — **backend APIs, frontend UIs, and the infra plumbing in between**.
+I'm a **Software Engineer at [Mark AI](https://mark-ai.tech)**, where I build an AI-native DOOH advertising platform end to end — **backend APIs, frontend UIs, Android apps, and the infra plumbing in between**.
 
 I'm deep into **observability, distributed systems, and platform engineering** — building the tools that keep production alive. When I'm not shipping code, I'm going deep on **DSA in Java, systems design**, or wandering somewhere new on a map 🗺️
 
-- 🧠 Building an **automated RCA engine on LangGraph** with agentic workflows
-- 🤖 Crafting **AI-driven E2E test suites** with Playwright
-- ☁️ Working with **Kubernetes (EKS), AWS, ClickHouse, Kafka**
+- 📺 Building the **Mark AI signage platform** — FastAPI + PostgreSQL backend, Kotlin Android player, Next.js CMS
+- 🤖 Shipped an **AI co-pilot** that books ad campaigns from plain English
+- ☁️ Running it all on **GCP — Cloud Run, Cloud SQL, GCS**
+- 🧠 Previously at **VibeMonitor** — agentic RCA engine on LangGraph and AI-driven Playwright test automation
 - 📊 Observability stack: **Datadog, New Relic, Grafana, Prometheus, OpenTelemetry**
-- 🚀 Open to **full-time roles & impactful collaborations**
+- 🤝 Open to **impactful collaborations**
 - 📫 Reach me at **akshatg9636@gmail.com**
 
 ---
